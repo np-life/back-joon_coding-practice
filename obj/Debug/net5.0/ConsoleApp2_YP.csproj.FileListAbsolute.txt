@@ -1,0 +1,16 @@
+C:\Users\NP\source\repos\ConsoleApp2_YP\bin\Debug\net5.0\ConsoleApp2_YP.exe
+C:\Users\NP\source\repos\ConsoleApp2_YP\bin\Debug\net5.0\ConsoleApp2_YP.deps.json
+C:\Users\NP\source\repos\ConsoleApp2_YP\bin\Debug\net5.0\ConsoleApp2_YP.runtimeconfig.json
+C:\Users\NP\source\repos\ConsoleApp2_YP\bin\Debug\net5.0\ConsoleApp2_YP.runtimeconfig.dev.json
+C:\Users\NP\source\repos\ConsoleApp2_YP\bin\Debug\net5.0\ConsoleApp2_YP.dll
+C:\Users\NP\source\repos\ConsoleApp2_YP\bin\Debug\net5.0\ref\ConsoleApp2_YP.dll
+C:\Users\NP\source\repos\ConsoleApp2_YP\bin\Debug\net5.0\ConsoleApp2_YP.pdb
+C:\Users\NP\source\repos\ConsoleApp2_YP\obj\Debug\net5.0\ConsoleApp2_YP.csprojAssemblyReference.cache
+C:\Users\NP\source\repos\ConsoleApp2_YP\obj\Debug\net5.0\ConsoleApp2_YP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NP\source\repos\ConsoleApp2_YP\obj\Debug\net5.0\ConsoleApp2_YP.AssemblyInfoInputs.cache
+C:\Users\NP\source\repos\ConsoleApp2_YP\obj\Debug\net5.0\ConsoleApp2_YP.AssemblyInfo.cs
+C:\Users\NP\source\repos\ConsoleApp2_YP\obj\Debug\net5.0\ConsoleApp2_YP.csproj.CoreCompileInputs.cache
+C:\Users\NP\source\repos\ConsoleApp2_YP\obj\Debug\net5.0\ConsoleApp2_YP.dll
+C:\Users\NP\source\repos\ConsoleApp2_YP\obj\Debug\net5.0\ref\ConsoleApp2_YP.dll
+C:\Users\NP\source\repos\ConsoleApp2_YP\obj\Debug\net5.0\ConsoleApp2_YP.pdb
+C:\Users\NP\source\repos\ConsoleApp2_YP\obj\Debug\net5.0\ConsoleApp2_YP.genruntimeconfig.cache

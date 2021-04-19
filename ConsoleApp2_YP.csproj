@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="ArrayList 실험실.cs" />
+    <Compile Remove="B1110_더하기사이클.cs" />
+    <Compile Remove="B11720_숫자의합_.cs" />
+    <Compile Remove="B2577_숫자의개수_.cs" />
+    <Compile Remove="List 실험실.cs" />
+    <Compile Remove="Program.cs" />
+  </ItemGroup>
+
+</Project>

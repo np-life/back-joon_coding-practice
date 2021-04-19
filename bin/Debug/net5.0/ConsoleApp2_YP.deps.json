@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConsoleApp2_YP/1.0.0": {
+        "runtime": {
+          "ConsoleApp2_YP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp2_YP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
